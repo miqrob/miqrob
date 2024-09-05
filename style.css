@@ -5,6 +5,10 @@ body {
     background-color: #123a47;
 }
 
+main {
+    text-align: center;
+}
+
 #article2 {
     background-color: #12667c;
 }
