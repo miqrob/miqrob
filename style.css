@@ -28,7 +28,7 @@ nav ul li a {
 }
 
 video, iframe {
-    width: 100%;
+    width: auto;
     height: auto; /
     max-width: 100%;
     display: block;
