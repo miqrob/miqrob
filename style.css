@@ -30,7 +30,7 @@ nav ul li a {
 video, iframe {
     width: auto;
     height: auto; /
-    max-width: 100%;
+    max-width: auto;
     display: block;
     margin: 0 auto;
 }
