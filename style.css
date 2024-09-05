@@ -27,6 +27,14 @@ nav ul li a {
     text-decoration: none;
 }
 
+video, iframe {
+    width: 100%;
+    height: auto; /* Ajuste automatiquement la hauteur pour garder les proportions */
+    max-width: 100%; /* Empêche la vidéo de dépasser la largeur de la page */
+    display: block; /* Enlève l'espace blanc en dessous de la vidéo */
+    margin: 0 auto; /* Centre la vidéo si nécessaire */
+}
+
 footer {
     background-color: #20dad8;
     color: white;
