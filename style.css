@@ -9,6 +9,10 @@ main {
     text-align: center;
 }
 
+iframe {
+    text-align: center;
+}
+
 #article2 {
     background-color: #12667c;
 }
