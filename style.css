@@ -29,10 +29,10 @@ nav ul li a {
 
 video, iframe {
     width: 100%;
-    height: auto; /* Ajuste automatiquement la hauteur pour garder les proportions */
-    max-width: 100%; /* Empêche la vidéo de dépasser la largeur de la page */
-    display: block; /* Enlève l'espace blanc en dessous de la vidéo */
-    margin: 0 auto; /* Centre la vidéo si nécessaire */
+    height: auto; /
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 footer {
